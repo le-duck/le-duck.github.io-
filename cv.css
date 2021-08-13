@@ -1,0 +1,60 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'source sans pro', Tahoma, sans-serif,
+    font-size; 16px;
+    border: 5px; solid #3388CC;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+    padding: 10px;
+
+}
+
+.infophoto{
+   height: 250px; 
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float: right;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size = 20px; 
+}
+
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 35px;
+}
+
+h1{
+    font-size: 28px;
+    color:sienna;   
+    border-bottom: 3px solid black;
+}
+#forma-gauche p{
+    margin-bottom: 35px;
+}
+#expo-gauche p{
+    margin-bottom: 40px;
+}
+strong<Hermann ADEPO> p{
+    font-size: 50px;
+}
+
+}
+marquee behavior<Je certifie sur l'honneur l'exactitude des informations portées à ce présent document> {
+    color:red
+}
+             
